@@ -1,0 +1,3794 @@
+[
+    {
+        "id": "1",
+        "name": "Fundamentplatte",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "Zement-Estrich",
+                "lambda": 1.4
+            },
+            {
+                "id": "2.",
+                "name": "PE-Folie",
+                "lambda": 0.0
+            },
+            {
+                "id": "3.",
+                "name": "Systemträger FBH",
+                "lambda": 0.045
+            },
+            {
+                "id": "4.",
+                "name": "Dämmung",
+                "lambda": 0.035
+            },
+            {
+                "id": "5.",
+                "name": "Abdichtung DIN18195",
+                "lambda": 0.17
+            },
+            {
+                "id": "6.",
+                "name": "Stahlbeton",
+                "lambda": 2.5
+            },
+            {
+                "id": "7.",
+                "name": "Styrodur CS",
+                "lambda": 0.038
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": []
+    },
+    {
+        "id": "2",
+        "name": "Aussenwand",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "Gipsputz",
+                "lambda": 0.51
+            },
+            {
+                "id": "2.",
+                "name": "Porenbeton PP-2",
+                "lambda": 0.09
+            },
+            {
+                "id": "3.",
+                "name": "WDVS",
+                "lambda": 0.032
+            },
+            {
+                "id": "4.",
+                "name": "Aussenputz",
+                "lambda": 0.7
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": []
+    },
+    {
+        "id": "3",
+        "name": "Decke",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "Gipskarton",
+                "lambda": 0.25
+            },
+            {
+                "id": "2.",
+                "name": "Luftschicht",
+                "lambda": 0.188
+            },
+            {
+                "id": "3.",
+                "name": "Folie",
+                "lambda": 0.0
+            },
+            {
+                "id": "4.",
+                "name": "Dämmung",
+                "lambda": 0.035
+            },
+            {
+                "id": "5.",
+                "name": "Dämmung",
+                "lambda": 0.035
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": []
+    },
+    {
+        "id": "4",
+        "name": "DH-Trennwand",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "Gipsputz",
+                "lambda": 0.51
+            },
+            {
+                "id": "2.",
+                "name": "Kalksandstein",
+                "lambda": 0.99
+            },
+            {
+                "id": "3.",
+                "name": "Schallschutzdämmung",
+                "lambda": 0.04
+            },
+            {
+                "id": "4.",
+                "name": "Kalksandstein",
+                "lambda": 0.99
+            },
+            {
+                "id": "5.",
+                "name": "Gipsputz",
+                "lambda": 0.51
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": []
+    },
+    {
+        "id": "5",
+        "name": "Einschubtreppe",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "pauschal",
+                "lambda": 0.033
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    },
+    {
+        "id": "Bauteil Nr.",
+        "name": "Bauteil-Bezeichnung",
+        "layers": [
+            {
+                "id": "1.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "2.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "3.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "4.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "5.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "6.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "7.",
+                "name": "nan",
+                "lambda": NaN
+            },
+            {
+                "id": "8.",
+                "name": "nan",
+                "lambda": NaN
+            }
+        ]
+    }
+]

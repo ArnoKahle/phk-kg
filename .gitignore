@@ -5,3 +5,19 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 .idea/
+# --- DATA HANDLING ---
+
+# 1. Ignoriere alle Logs (egal wo)
+*.log
+*.log.*
+*.gz
+
+# 2. Ignoriere temporäre FHEM Files
+data/raw/fhem/*
+
+# 3. Aber behalte eine ".gitkeep" Datei, falls wir den Ordner leer anlegen wollen
+!data/raw/fhem/.gitkeep
+
+# 4. Erlaube explizit das PHPP Excel und processed Daten
+!data/raw/phpp/
+!data/processed/
